@@ -1,4 +1,4 @@
-Here’s a suggested structure for your README file tailored to your house pricing analysis project:
+
 
 ---
 
